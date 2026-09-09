@@ -10,5 +10,10 @@ namespace ConsoleAppNewGen
         {
             Console.WriteLine("Employee Information");
         }
+
+        public void GetInfo(string name)
+        {
+            Console.WriteLine($"Employee Name: {name}");
+        }
     }
 }
