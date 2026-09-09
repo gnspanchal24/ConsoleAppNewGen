@@ -5,4 +5,4 @@ Console.WriteLine("Hello, World!");
 Employee employee = new Employee();
 employee.GetInfo();
 
-employee.GetInfo("John Doe");
+employee.GetInfo("Ganesh");
