@@ -7,7 +7,7 @@ employee.GetInfo();
 
 employee.GetInfo("Ganesh");
 
-employee.GetInfo("Ganesh", 25);
+employee.GetInfo("Ganesh", 33);
 
 Department department = new Department();
 department.GetDepartmentInfo();
